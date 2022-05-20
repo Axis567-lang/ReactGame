@@ -57,3 +57,4 @@ A simple snake like game made in React.
 
 _Referencias:_
   - Akshay Rana, "How to build a simple game in React Native". LogRocket(20/05/2021). Source: https://blog.logrocket.com/react-native-game-development-tutorial/
+  - bberak's repository: _react-game-engine_ [API usage]. Source: https://github.com/bberak/react-game-engine.git
